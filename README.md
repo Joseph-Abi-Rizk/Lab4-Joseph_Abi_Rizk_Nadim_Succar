@@ -106,5 +106,3 @@ This project also includes detailed documentation generated using **Sphinx**, wh
 
 ### Understanding reStructuredText (reST):
 The documentation is written using **reStructuredText** (reST) syntax, which is similar to Markdown. If you'd like to contribute to or modify the documentation, you can learn more about reST syntax [here](https://docutils.sourceforge.io/rst.html).
-
-```
