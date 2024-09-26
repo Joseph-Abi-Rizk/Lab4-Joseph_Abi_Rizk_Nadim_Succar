@@ -3,7 +3,6 @@ A project combining Tkinter and PyQt documented implementations
 PyQT: Joseph
 Tkinter: Nadim
 
-```markdown
 # Tkinter: Nadim
 
 This project is a Tkinter-based graphical user interface (GUI) implementation, built to manage a school system. The application allows users to manage students, instructors, and courses, register students for courses, and perform CRUD operations on records.
